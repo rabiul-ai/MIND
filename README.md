@@ -2,7 +2,7 @@
 A novel Multimodal Interpretable Nodule Diagnosis framework for benign malignant lung nodule classification
 
 # Highlights:
-* First **multimodal** model that integrates CT scan images, radiological attributes, and textual nodule descriptions  
+* First **multimodal** model that integrates CT scan images, radiological attributes, and textual nodule descriptions to align clinical diagnosis  
 * Clinically informative **interpretability** using SHAP values for radiological attributes and word-level importance for nodule classification  
 * Text-based classification using a domain-specific pretrained **PubMedBERT** model on **anatomy-aware** generated textual descriptions
 * Comprehensive ablation studies, including three-way **cross-attention** and **contrastive loss**–based **joint embedding** in a shared latent space  
