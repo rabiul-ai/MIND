@@ -8,10 +8,11 @@ A novel Multimodal Interpretable Nodule Diagnosis framework for benign malignant
 * Comprehensive ablation studies, including three-way **cross-attention** and **contrastive loss**–based **joint embedding** in a shared latent space  
 
 # Multimodal framework:
-<img width="3178" height="2590" alt="Multimodal Framework only" src="https://github.com/user-attachments/assets/53828ffb-f9f2-4cce-9c2a-00da6d0179d1" />
+<img width="3192" height="2501" alt="workflow" src="https://github.com/user-attachments/assets/8a983a03-0baa-4337-a936-c551ea783d30" />
+
 
 # Multimodal Fusion:
-<img width="3101" height="973" alt="Fusion techniques" src="https://github.com/user-attachments/assets/fdaebfed-3abf-40c7-91d1-e9335a4a033b" />
+<img width="3192" height="946" alt="fusion" src="https://github.com/user-attachments/assets/1801454d-e197-4265-892a-885aaf1d6010" />
 
 # Result:
 <img width="4800" height="2400" alt="bar plot comp IRT set A" src="https://github.com/user-attachments/assets/901cf3e4-adc8-4bed-a4bd-5839da8df954" />
